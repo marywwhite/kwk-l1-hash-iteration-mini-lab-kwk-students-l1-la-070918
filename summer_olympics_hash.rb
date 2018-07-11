@@ -16,6 +16,14 @@ def iterate_through_hash
   summer_olympics = {}
   
   
+  
+  Place          | Year      |
+| ------------- |:---------:|
+| Sydney        | 2000      |
+| Athens        | 2004      |
+| Beijing       | 2008      |
+| London        | 2012  
+  
 end
 
 iterate_through_hash
